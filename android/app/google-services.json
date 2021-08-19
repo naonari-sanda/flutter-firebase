@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "535308893093",
+    "project_id": "fir-cookbook-43818",
+    "storage_bucket": "fir-cookbook-43818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535308893093:android:a83bbdf9c45584f64c064c",
+        "android_client_info": {
+          "package_name": "com.example.mycookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535308893093-5l9j26r0jgctji8a3risd94b05ggt017.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92aNceB1QaSeMgPPJcFMWEqocs-bxrbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535308893093-5l9j26r0jgctji8a3risd94b05ggt017.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535308893093-a947eekbt9alv0tqprh91lnk7e1n3nq1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mycookbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
